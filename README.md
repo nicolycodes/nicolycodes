@@ -9,7 +9,14 @@ Atualmente estou estudando:
 - Power BI
 - Inteligência Artificial
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=ivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
-<img src="https://cdn.jsdelivr.net/gh/deviconscons/java/java-original.svg
-<img src="https://cdn.jsdelivr.net/gh/devicons/ons/git/git-original.svg
-          
+HTML
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original. src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-vg
+
+<img src="https://cdn.jsdelivr.net/gh/evicon/icons/java/java-original.svg
+
+<img src="https://cdn.jsdelivr.net/gh/deviconscons/git/git-original.svg
+
+</p>
+
