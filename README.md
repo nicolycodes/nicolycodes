@@ -15,7 +15,7 @@ Tecnologias
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" />
 
-<h2>Contatos</h2>
+Contatos
 <p align="left">
 <a href="mailto:nicolyfsilva2003@gmail.com">
 https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
