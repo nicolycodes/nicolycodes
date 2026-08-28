@@ -8,8 +8,6 @@ Atualmente estou estudando:
 - Java
 - Power BI
 - Inteligência Artificial
- 
-HTML
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original. src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-vg
