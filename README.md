@@ -9,12 +9,6 @@ Atualmente estou estudando:
 - Power BI
 - Inteligência Artificial
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original. src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-vg
-
-<img src="https://cdn.jsdelivr.net/gh/evicon/icons/java/java-original.svg
-
-<img src="https://cdn.jsdelivr.net/gh/deviconscons/git/git-original.svg
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,java,gitcode
 </p>
-
