@@ -1,16 +1,17 @@
-## Hi there 👋
+Oi, eu sou a Nicoly 
 
-<!--
-**nicolycodes/nicolycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Objetivo: Transformar desafios operacionais em soluções orientadas por dados e tecnologia na área de RH.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou estudando:
+- Python
+- SQL
+- Java
+- Power BI
+- Inteligência Artificial
+ 
+  
+            <i class="devicon-python-plain-wordmark colored"></i>
+            <i class="devicon-azuresqldatabase-plain colored"></i>
+            <i class="devicon-java-plain-wordmark"></i>
+          
+          
