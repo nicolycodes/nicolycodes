@@ -10,5 +10,4 @@ Atualmente estou estudando:
 - Inteligência Artificial
 
 <p align="center">
-<img src="https://skillicons.dev/l,java,git,github
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github" />
