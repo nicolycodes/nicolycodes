@@ -1,4 +1,4 @@
-Oi, eu sou a Nicoly 
+Oi, eu sou a Nicoly!
 
 Objetivo: Transformar desafios operacionais em soluções orientadas por dados e tecnologia na área de RH.
 
