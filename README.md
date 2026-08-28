@@ -6,8 +6,10 @@ Atualmente estou estudando:
 - Python
 - SQL
 - Java
+- Git e Git Hube
+- VS Code
 - Power BI
 - Inteligência Artificial
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" />
