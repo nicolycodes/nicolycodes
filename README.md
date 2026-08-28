@@ -9,9 +9,7 @@ Atualmente estou estudando:
 - Power BI
 - Inteligência Artificial
  
-  
-            <i class="devicon-python-plain-wordmark colored"></i>
-            <i class="devicon-azuresqldatabase-plain colored"></i>
-            <i class="devicon-java-plain-wordmark"></i>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=ivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+<img src="https://cdn.jsdelivr.net/gh/deviconscons/java/java-original.svg
+<img src="https://cdn.jsdelivr.net/gh/devicons/ons/git/git-original.svg
           
