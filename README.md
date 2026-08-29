@@ -1,6 +1,6 @@
 Oi, eu sou a Nicoly!
 
-Objetivo: Transformar desafios operacionais em soluções orientadas por dados e tecnologia na área de RH.
+O meu objetivo é transformar desafios operacionais em soluções orientadas por dados e tecnologia na área de RH.
 
 Atualmente estou estudando:
 - Python
@@ -15,8 +15,8 @@ Tecnologias
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" />
 
-Contatos
 
+Contatos
 
 
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
