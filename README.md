@@ -11,7 +11,7 @@ O meu objetivo é transformar desafios operacionais em soluções orientadas por
 - Power BI
 - Inteligência Artificial
 
-## Tecnologias
+## Ícones das tecnologias
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css" />
 </p>
