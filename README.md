@@ -1,4 +1,4 @@
-Oi, eu sou a Nicoly!
+ Oi, eu sou a Nicoly!
 
 O meu objetivo é transformar desafios operacionais em soluções orientadas por dados e tecnologia na área de RH.
 
@@ -16,13 +16,16 @@ Tecnologias
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css" />
 </p>
 
-Contatos
+
+## Contatos
+
+[
 
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-(mailto:nicolyfsilva2003@gmail.com)
-
+](mailto:nicolyfsilva2003@gmail.com)
+[
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-(https://www.linkedin.com/in/silva-nicoly)
+](https://www.linkedin.com/in/silva-nicoly)
