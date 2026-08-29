@@ -4,8 +4,8 @@ O meu objetivo é transformar desafios operacionais em soluções orientadas por
 
 Atualmente estou estudando:
 - Python
-- SQL
-- Java
+- HTML
+- CSS
 - Git e Git Hube
 - VS Code
 - Power BI
@@ -13,7 +13,7 @@ Atualmente estou estudando:
 
 Tecnologias
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,HTML,CSS" />
 
 
 Contatos
