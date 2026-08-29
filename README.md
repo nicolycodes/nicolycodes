@@ -1,8 +1,8 @@
- Oi, eu sou a Nicoly!
+## Oi, eu sou a Nicoly!
 
 O meu objetivo é transformar desafios operacionais em soluções orientadas por dados e tecnologia na área de RH.
 
-Atualmente estou estudando:
+## Atualmente estou estudando:
 - Python
 - HTML
 - CSS
@@ -11,7 +11,7 @@ Atualmente estou estudando:
 - Power BI
 - Inteligência Artificial
 
-Tecnologias
+## Tecnologias
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css" />
 </p>
